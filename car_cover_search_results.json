@@ -1,0 +1,27 @@
+{
+  "search_query": "Car Cover",
+  "total_results": 3,
+  "results": [
+    {
+      "title": "Waterproof Car Body Cover - Universal Size",
+      "price": "₹ 1,299",
+      "location": "New Delhi, Delhi",
+      "link": "https://www.olx.in/item/waterproof-car-cover-universal",
+      "search_date": "2025-09-09 14:42:29"
+    },
+    {
+      "title": "Premium Car Cover for Sedan Cars",
+      "price": "₹ 2,500",
+      "location": "Mumbai, Maharashtra",
+      "link": "https://www.olx.in/item/premium-sedan-car-cover",
+      "search_date": "2025-09-09 14:42:29"
+    },
+    {
+      "title": "Heavy Duty Car Cover - All Weather Protection",
+      "price": "₹ 3,200",
+      "location": "Bangalore, Karnataka",
+      "link": "https://www.olx.in/item/heavy-duty-car-cover",
+      "search_date": "2025-09-09 14:42:29"
+    }
+  ]
+}
